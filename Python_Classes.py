@@ -17,3 +17,5 @@ p2 = Patient("Test", "Female")
 
 p1.getPatientInfo()
 print(Patient.instances)
+
+# HAPPY NEW YEAR!
