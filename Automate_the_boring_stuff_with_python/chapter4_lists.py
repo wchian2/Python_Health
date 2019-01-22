@@ -55,13 +55,17 @@ prints:
 ... and so forth
 """
 
-"""
 for y in range(len(grid[0])):
     for x in range(len(grid)):
         print(grid[x][y],end="")
     print("")
-"""
 
-for y in range(len(grid[0])):
-    for x in range(len(grid)):
-        print(x, y)
+"""
+OUTPUT:
+..OO.OO..
+.OOOOOOO.
+.OOOOOOO.
+..OOOOO..
+...OOO...
+....O....
+"""
